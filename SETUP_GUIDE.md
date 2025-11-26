@@ -13,7 +13,7 @@
 
 ### A. Якщо ти працюєш через GitHub веб (рекомендовано для початківців)
 
-1. Відкрий свій репозиторій `https://github.com/zivak0707-lang/documentation-lab-Zivak`.
+1. Відкрий репозиторій `https://github.com/zivak0707-lang/documentation-lab-Zivak`.
 2. Натисни кнопку **Code** → вибери **Download ZIP** → натисни **Download**.
 3. Відкрий завантажену папку (розпакуй ZIP).
 4. Якщо в папці є інструкція `package.json` (фронтенд):
